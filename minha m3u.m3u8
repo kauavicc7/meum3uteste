@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo UHD 4K" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="UHD 4K",Globo UHD 4K
 http://cdn4k.club:80/live/gessica173/gks8842/28586.m3u8
-
-#EXTINF:-1,Ep101 – Os Iminentes Guerreiros da justiça! Os Pride Troopes!!
-http://cdnv5.ec.cx/RedeCanais/RCServer05/ondemand/DBSPRLEGEP101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece - Stampede - 2019 (L)" tvg-logo="http://cdn4k.store:80/images/pQLJiY9XfiO3IN1x0l0E51XSwgV_big.jpg" group-title="LEGENDADOS",One Piece - Stampede - 2019 (L)
+http://cdn4k.club:80/movie/gessica173/gks8842/80610.mp4
