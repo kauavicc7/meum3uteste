@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo UHD 4K" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="UHD 4K",Globo UHD 4K
+http://cdn4k.club:80/live/gessica173/gks8842/28586.m3u8
